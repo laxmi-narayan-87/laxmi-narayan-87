@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects related to AI, machine learning, and web development.
 
-📫 You can reach me via email at LAXMINARAYAN955459@GMAIL.COM or connect with me on LinkedIn at linkedin.com/in/laxmi-narayan-944205289.
+📫 You can reach me via email at LAXMINARAYAN955459@GMAIL.COM or connect with me on LinkedIn at www.linkedin.com/in/laxminarayan87.
 
 😄 Pronouns: He/Him
 

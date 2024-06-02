@@ -1,13 +1,7 @@
 👋 Hi, I’m @laxmi-narayan-87
-
-👀 I’m interested in AI, machine learning, web development, and exploring new technologies.
-
-🌱 I’m currently learning advanced concepts in AI and deep learning, as well as enhancing my skills in web development.
-
-💞️ I’m looking to collaborate on projects related to AI, machine learning, and web development.
-
-📫 You can reach me via email at LAXMINARAYAN955459@GMAIL.COM or connect with me on LinkedIn at www.linkedin.com/in/laxminarayan87.
-
+👀 I’m interested in artificial intelligence, machine learning, and innovative technological solutions.
+🌱 I’m currently learning advanced AI models, deep learning techniques, and improving my programming skills in Python and C.
+💞️ I’m looking to collaborate on AI and machine learning projects, hackathons, and open-source contributions.
+📫 How to reach me: Email me at LAXMINARAYAN955459@GMAIL.COM or connect with me on LinkedIn.
 😄 Pronouns: He/Him
-
-⚡ Fun fact: I enjoy participating in coding competitions and hackathons in my free time.
+⚡ Fun fact: I love cycling and exploring new AI models in my free time.
